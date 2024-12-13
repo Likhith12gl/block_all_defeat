@@ -48,5 +48,6 @@ To run the Project locally:
 7. Run the Command to start the Frontend
 
    ```sh
-   npm run dev
+   1.npm i
+   2.npm run dev
    ```
